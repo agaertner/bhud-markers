@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OverlayData>
+
+  <MarkerCategory name="nekres" displayName="Nekres.1943">
+
+    <MarkerCategory name="treasure_mushroom" displayName="Treasure Mushroom" iconFile="TreasureMushrooms/data/icons/bubble_zzz.png"/>
+
+  </MarkerCategory>
+
+  <POIs>
+    <!-- Auric Basin -->
+    <POI MapID="1043" xpos="346.1787" ypos="249.9103" zpos="-155.7708" type="nekres.treasure_mushroom" GUID="1db6db4f-4ce6-4006-98c7-5105a9036418"/>
+    <POI MapID="1043" xpos="457.8069" ypos="243.3988" zpos="-195.1422" type="nekres.treasure_mushroom" GUID="3aeab8cf-2b76-455b-9e49-27741892f483"/>
+    <POI MapID="1043" xpos="482.4781" ypos="242.7604" zpos="-233.0493" type="nekres.treasure_mushroom" GUID="cae8470b-f47d-4397-9084-fdbe1bc37a04"/>
+    <POI MapID="1043" xpos="374.5955" ypos="242.5329" zpos="-223.7216" type="nekres.treasure_mushroom" GUID="ffcbe734-9a5c-4db4-bd99-2f796050ee63"/>
+    <POI MapID="1043" xpos="313.0178" ypos="256.2192" zpos="-219.3528" type="nekres.treasure_mushroom" GUID="df3a2e8f-4756-4047-80cd-f2f0cd2c8a4a"/>
+    <POI MapID="1043" xpos="442.8776" ypos="245.1053" zpos="-260.8446" type="nekres.treasure_mushroom" GUID="3efd66a2-4a77-470d-af00-18967f7d0b8a"/>
+
+    <!-- Verdant Brink -->
+    <POI MapID="1052" xpos="-771.1309" ypos="383.7531" zpos="-267.0016" type="nekres.treasure_mushroom" GUID="28661775-b2d0-42bc-a33c-5f0008a8feda"/>
+    <POI MapID="1052" xpos="-729.2362" ypos="382.0406" zpos="-252.7345" type="nekres.treasure_mushroom" GUID="4c2165c0-6a32-4227-a02b-22ff0fdbb3a2"/>
+    <POI MapID="1052" xpos="-756.9005" ypos="381.6284" zpos="-293.1139" type="nekres.treasure_mushroom" GUID="eb014d1b-3d41-4276-817e-0ac3a0f8456b"/>
+    <POI MapID="1052" xpos="-718.9862" ypos="360.2487" zpos="-207.1557" type="nekres.treasure_mushroom" GUID="d5275d6e-0350-4a7d-827d-6c75d8e7e547"/>
+    <POI MapID="1052" xpos="-778.0615" ypos="369.3256" zpos="-221.1002" type="nekres.treasure_mushroom" GUID="5d8287b1-3c90-42f1-9377-64aaa23a4b54"/>
+    <POI MapID="1052" xpos="-762.6509" ypos="354.9519" zpos="-150.6346" type="nekres.treasure_mushroom" GUID="8dcced70-9ffb-427c-9b78-703c0d1ab7ab"/>
+
+    <!-- Tangled Depths -->
+    <POI MapID="1045" xpos="-362.1964" ypos="91.31538" zpos="530.4536" type="nekres.treasure_mushroom" GUID="0ee1cb9c-9fee-42e7-9a1a-94f58f19a5ba"/>
+    <POI MapID="1045" xpos="-358.8085" ypos="108.4212" zpos="485.8412" type="nekres.treasure_mushroom" GUID="4e08ebad-b2f8-4af3-8ff5-5e20b9424d6d"/>
+    <POI MapID="1045" xpos="-280.0386" ypos="110.4797" zpos="486.9016" type="nekres.treasure_mushroom" GUID="2f307e64-aa73-4301-b0dd-9e6d251b7b7d"/>
+    <POI MapID="1045" xpos="-332.615" ypos="108.2123" zpos="481.2534" type="nekres.treasure_mushroom" GUID="69447ae8-bbaa-4500-bd79-0cab4342a628"/>
+    <POI MapID="1045" xpos="-238.2317" ypos="111.9172" zpos="568.3901" type="nekres.treasure_mushroom" GUID="86b6d04a-2610-4332-923c-707eff5d70be"/>
+    <POI MapID="1045" xpos="-241.4146" ypos="110.268" zpos="558.3072" type="nekres.treasure_mushroom" GUID="11b1e62f-f1d5-4fed-85e3-a5b6494e2f3f"/>
+
+    <!-- Bloodstone Fen -->
+    <POI MapID="1165" xpos="-87.72906" ypos="525.3754" zpos="44.65638" type="nekres.treasure_mushroom" GUID="46a30479-f4e7-46a1-968a-b47e37a1ada2"/>
+    <POI MapID="1165" xpos="-55.10096" ypos="518.7361" zpos="110.1601" type="nekres.treasure_mushroom" GUID="c8568138-c24d-4052-874c-7259b8e77e3f"/>
+    <POI MapID="1165" xpos="-155.6684" ypos="511.8958" zpos="129.6137" type="nekres.treasure_mushroom" GUID="c3c3d987-d948-4877-89c3-c55c690a02ec"/>
+    <POI MapID="1165" xpos="-172.7139" ypos="514.0229" zpos="68.16325" type="nekres.treasure_mushroom" GUID="7065e4b7-3f42-4161-bf72-5404c06ff5eb"/>
+    <POI MapID="1165" xpos="-87.86551" ypos="518.0176" zpos="117.5845" type="nekres.treasure_mushroom" GUID="bcb351a0-828d-4947-a59b-4f508c8fd461"/>
+    <POI MapID="1165" xpos="-133.0191" ypos="513.4692" zpos="80.48541" type="nekres.treasure_mushroom" GUID="1fd623bc-a401-4e8c-8722-56509555c6d0"/>
+
+  </POIs>
+
+</OverlayData>
