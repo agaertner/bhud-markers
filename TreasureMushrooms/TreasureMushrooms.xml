@@ -3,7 +3,7 @@
 
   <MarkerCategory name="nekres" displayName="Nekres.1943">
 
-    <MarkerCategory name="treasure_mushroom" displayName="Treasure Mushroom" iconFile="TreasureMushrooms/data/icons/bubble_zzz.png"/>
+    <MarkerCategory name="treasure_mushroom" displayName="Treasure Mushroom" iconFile="data/icons/bubble_zzz.png" tip-description="Hiding spot" bounce-delay="0" bounce="bounce" bounce-height="2" bounce-duration="1" triggerrange="5" autotrigger="1"/>
 
   </MarkerCategory>
 
