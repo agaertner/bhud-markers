@@ -42,7 +42,7 @@
     <POI MapID="1165" xpos="-133.0191" ypos="513.4692" zpos="80.48541" type="nekres.treasure_mushroom" GUID="Lb0F3KK4LEKIBvFz6Y2Eiw=="/>
 
     <!-- Draconis Mons -->
-    <POI MapID="1195" xpos="-137.5873" ypos="361.3447" zpos="56.23612" type="nekres.treasure_mushroom" GUID="ij5FD40FZUmsmmnVjsc1uA==">
+    <POI MapID="1195" xpos="-137.478" ypos="361.3484" zpos="56.4876" type="nekres.treasure_mushroom" GUID="ij5FD40FZUmsmmnVjsc1uA==">
   </POIs>
 
 </OverlayData>
