@@ -9,14 +9,14 @@
 
   <POIs>
     <!-- Grothmar Valley -->
-    <POI MapID="1330" xpos="216.7433" ypos="51.43879" zpos="-131.7953" type="nekres.carved_path" iconFile="data/icons/A_Carved_Path_symbol_1.png" GUID="/uXBD6iEoUSuHaJmw3iivw=="/>
-    <POI MapID="1330" xpos="-30.54622" ypos="32.69599" zpos="-281.2913" type="nekres.carved_path" iconFile="data/icons/A_Carved_Path_symbol_2.png" GUID="gBg2cYrDOkWT0ZqkSC+xOg=="/>
-    <POI MapID="1330" xpos="209.1674" ypos="46.81828" zpos="-202.687" type="nekres.carved_path" iconFile="data/icons/A_Carved_Path_symbol_3.png" GUID="z5rmFIFZCEu2NAsP8CEpDA=="/>
-    <POI MapID="1330" xpos="57.20332" ypos="50.77705" zpos="-366.5828" type="nekres.carved_path" iconFile="data/icons/A_Carved_Path_symbol_4.png" GUID="OUt1TQ5u70CiBxbEFuAiwA=="/> 
-    <POI MapID="1330" xpos="83.1582" ypos="44.57448" zpos="-369.3509" type="nekres.carved_path" iconFile="data/icons/A_Carved_Path_symbol_5.png" GUID="Gu41h5qoF0iYSpcx3EBz4Q=="/>      
-    <POI MapID="1330" xpos="184.6787" ypos="16.94467" zpos="-318.3552" type="nekres.carved_path" iconFile="data/icons/A_Carved_Path_symbol_6.png" GUID="tqheul70fU2F9N/AElqqtA=="/>
-    <POI MapID="1330" xpos="244.4422" ypos="46.98809" zpos="-300.4089" type="nekres.carved_path" iconFile="data/icons/A_Carved_Path_symbol_7.png" GUID="7EoKeeCYJEiyBY91Cd6OkA=="/> 
-    <POI MapID="1330" xpos="142.0873" ypos="27.07615" zpos="-417.8793" type="nekres.carved_path" iconFile="data/icons/A_Carved_Path_symbol_8.png" GUID="zG9z4XpBCECW8RDLiXGcig=="/>
+    <POI MapID="1330" xpos="216.7433" ypos="51.43879" zpos="-131.7953" type="nekres.carved_path" iconFile="ACarvedPath/data/icons/A_Carved_Path_symbol_1.png" GUID="/uXBD6iEoUSuHaJmw3iivw=="/>
+    <POI MapID="1330" xpos="-30.54622" ypos="32.69599" zpos="-281.2913" type="nekres.carved_path" iconFile="ACarvedPath/data/icons/A_Carved_Path_symbol_2.png" GUID="gBg2cYrDOkWT0ZqkSC+xOg=="/>
+    <POI MapID="1330" xpos="209.1674" ypos="46.81828" zpos="-202.687" type="nekres.carved_path" iconFile="ACarvedPath/data/icons/A_Carved_Path_symbol_3.png" GUID="z5rmFIFZCEu2NAsP8CEpDA=="/>
+    <POI MapID="1330" xpos="57.20332" ypos="50.77705" zpos="-366.5828" type="nekres.carved_path" iconFile="ACarvedPath/data/icons/A_Carved_Path_symbol_4.png" GUID="OUt1TQ5u70CiBxbEFuAiwA=="/> 
+    <POI MapID="1330" xpos="83.1582" ypos="44.57448" zpos="-369.3509" type="nekres.carved_path" iconFile="ACarvedPath/data/icons/A_Carved_Path_symbol_5.png" GUID="Gu41h5qoF0iYSpcx3EBz4Q=="/>      
+    <POI MapID="1330" xpos="184.6787" ypos="16.94467" zpos="-318.3552" type="nekres.carved_path" iconFile="ACarvedPath/data/icons/A_Carved_Path_symbol_6.png" GUID="tqheul70fU2F9N/AElqqtA=="/>
+    <POI MapID="1330" xpos="244.4422" ypos="46.98809" zpos="-300.4089" type="nekres.carved_path" iconFile="ACarvedPath/data/icons/A_Carved_Path_symbol_7.png" GUID="7EoKeeCYJEiyBY91Cd6OkA=="/> 
+    <POI MapID="1330" xpos="142.0873" ypos="27.07615" zpos="-417.8793" type="nekres.carved_path" iconFile="ACarvedPath/data/icons/A_Carved_Path_symbol_8.png" GUID="zG9z4XpBCECW8RDLiXGcig=="/>
   </POIs>
 
 </OverlayData>
