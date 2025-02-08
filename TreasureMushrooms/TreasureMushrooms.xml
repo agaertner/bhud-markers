@@ -25,7 +25,8 @@
     <POI MapID="1052" xpos="-762.6509" ypos="354.9519" zpos="-150.6346" type="nekres.treasure_mushroom" GUID="cD7Vqw2aykSilRc0Hw84KQ=="/>
     <POI MapID="1052" xpos="-733.3204" ypos="354.1612" zpos="-136.8043" type="nekres.treasure_mushroom" GUID="Wrz7V6srQkuyiZ/rN5xaCw=="/>
     <POI MapID="1052" xpos="-791.684" ypos="384.9827" zpos="-255.2638" type="nekres.treasure_mushroom" GUID="k7lqqsHd2EWx4T6b5d+xww=="/>
-    
+    <POI MapID="1052" xpos="-769.865" ypos="387.811" zpos="-302.943" type="nekres.treasure_mushroom" GUID="R3BYZxNJSESRv2EF1oVVLA=="/>
+       
     <!-- Tangled Depths -->
     <POI MapID="1045" xpos="-362.1964" ypos="91.31538" zpos="530.4536" type="nekres.treasure_mushroom" GUID="nj2MfZ1pEkyy38kSEC++FA=="/>
     <POI MapID="1045" xpos="-358.8085" ypos="108.4212" zpos="485.8412" type="nekres.treasure_mushroom" GUID="k64rxjEMbEOSlfsgJTfvjg=="/>
@@ -33,7 +34,8 @@
     <POI MapID="1045" xpos="-332.615" ypos="108.2123" zpos="481.2534" type="nekres.treasure_mushroom" GUID="6TM4gJOCDUWqwEP3eRSyoQ=="/>
     <POI MapID="1045" xpos="-238.2317" ypos="111.9172" zpos="568.3901" type="nekres.treasure_mushroom" GUID="8nkcd+a0qU2RI4/dra8dlw=="/>
     <POI MapID="1045" xpos="-241.4146" ypos="110.268" zpos="558.3072" type="nekres.treasure_mushroom" GUID="VhdFKFdNl0iU8Q2N/Y6pYA=="/>
-
+    <POI MapID="1045" xpos="-344.877" ypos="129.908" zpos="409.287" type="nekres.treasure_mushroom" GUID="X+7NhIaCzEiTOQaYJ8wOOQ=="/>
+    
     <!-- Bloodstone Fen -->
     <POI MapID="1165" xpos="-87.72906" ypos="525.3754" zpos="44.65638" type="nekres.treasure_mushroom" GUID="7K4dCwUypkCHjBTpfMZ6fg=="/>
     <POI MapID="1165" xpos="-55.10096" ypos="518.7361" zpos="110.1601" type="nekres.treasure_mushroom" GUID="IP+Avor44kyJZIL4NOyxMA=="/>
