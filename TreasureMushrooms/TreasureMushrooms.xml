@@ -46,6 +46,16 @@
 
     <!-- Draconis Mons -->
     <POI MapID="1195" xpos="-137.478" ypos="361.3484" zpos="56.4876" type="nekres.treasure_mushroom" GUID="ij5FD40FZUmsmmnVjsc1uA=="/>
+	
+    <!-- Dragon's Stand -->
+    <!-- South Lane -->
+    <POI MapID="1041" xpos="631.839" ypos="44.39" zpos="-2.994" type="nekres.treasure_mushroom" GUID="qGJFAoDO4ECTDyL44ROzpw=="/>
+    <POI MapID="1041" xpos="710.666" ypos="45.956" zpos="30.516" type="nekres.treasure_mushroom" GUID="yIW0aFgoDke4yGI1f28axQ=="/>
+    <POI MapID="1041" xpos="700.829" ypos="50.14" zpos="-41.594" type="nekres.treasure_mushroom" GUID="ll7eaYypM0O4JsfdGTXOHw=="/>
+    <POI MapID="1041" xpos="579.24" ypos="50.867" zpos="-64.952" type="nekres.treasure_mushroom" GUID="WFbHNyGyikG7IXjLWiZh6g=="/>
+  
+    <!-- Central Lane -->
+    <!-- North Lane -->
   </POIs>
 
 </OverlayData>
